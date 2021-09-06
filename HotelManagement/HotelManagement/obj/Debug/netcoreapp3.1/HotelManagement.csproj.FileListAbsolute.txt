@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\obj\Debug\netcoreapp3.1\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\obj\Debug\netcoreapp3.1\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\obj\Debug\netcoreapp3.1\HotelManagement.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\obj\Debug\netcoreapp3.1\HotelManagement.AssemblyInfo.cs
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\obj\Debug\netcoreapp3.1\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\bin\Debug\netcoreapp3.1\HotelManagement.exe
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\bin\Debug\netcoreapp3.1\HotelManagement.deps.json
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\bin\Debug\netcoreapp3.1\HotelManagement.runtimeconfig.json
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\bin\Debug\netcoreapp3.1\HotelManagement.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\bin\Debug\netcoreapp3.1\HotelManagement.dll
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\bin\Debug\netcoreapp3.1\HotelManagement.pdb
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\obj\Debug\netcoreapp3.1\HotelManagement.dll
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\obj\Debug\netcoreapp3.1\HotelManagement.pdb
+C:\Users\Ali\source\repos\HotelManagement\HotelManagement\obj\Debug\netcoreapp3.1\HotelManagement.genruntimeconfig.cache
